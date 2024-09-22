@@ -3,4 +3,5 @@ esh.c
 fork.c
 fork.o
 init.gdb
+Makefile
 output.txt
